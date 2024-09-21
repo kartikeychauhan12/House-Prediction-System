@@ -32,8 +32,8 @@ def predict_price(location, sqft, bath, bhk):
     
     return round(model.predict([x])[0],2)
 
-model = load_model("bangalore_home_prices_model.pickle")
-data_columns = load_columns("columns.json")
+model = load_model("Model/bangalore_home_prices_model.pickle")
+data_columns = load_columns("Model/columns.json")
 locations = data_columns[3:]
 
 st.sidebar.title("About the App")
