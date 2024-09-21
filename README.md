@@ -6,11 +6,10 @@ You can interact with the application by selecting a location, entering the area
 [LIVE DEMO](https://house-price-prediction-system.streamlit.app/)
 
 
-# Project Title
+# Project Structure
 ```bash
-├── app.py                 # Main Streamlit app
+├── app.py                               # Main Streamlit app
 ├── bangalore_home_prices_model.pickle   # Pre-trained model
-├── columns.json           # JSON file containing the columns and locations
-├── requirements.txt       # List of dependencies
-└── README.md              # Project documentation
+├── columns.json                         # JSON file containing the columns and locations
+└── requirements.txt                     # List of dependencies
 ```
