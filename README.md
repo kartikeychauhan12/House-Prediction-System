@@ -3,4 +3,4 @@ This project provides a web application for predicting house prices in Bangalore
 
 You can interact with the application by selecting a location, entering the area, number of bedrooms (BHK), and number of bathrooms. The app will provide an estimated price for the house based on your inputs.
 
-[LIVE DEMO](http://192.168.1.37:8501)
+[LIVE DEMO](http://localhost:8501)
