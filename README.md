@@ -3,7 +3,7 @@ This project provides a web application for predicting house prices in Bangalore
 
 You can interact with the application by selecting a location, entering the area, number of bedrooms (BHK), and number of bathrooms. The app will provide an estimated price for the house based on your inputs.
 
-[LIVE DEMO](https://house-price-prediction-system.streamlit.app/)
+## 🌐Check out the [LIVE DEMO](https://house-price-prediction-system.streamlit.app/)
 
 
 ## Project Structure
